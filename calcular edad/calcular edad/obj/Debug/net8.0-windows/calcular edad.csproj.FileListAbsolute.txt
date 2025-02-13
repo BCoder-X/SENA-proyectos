@@ -1,0 +1,19 @@
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\calcular edad_MarkupCompile.cache
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\calcular edad.g.resources
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\calcular edad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\calcular edad.AssemblyInfoInputs.cache
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\calcular edad.AssemblyInfo.cs
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\calcular edad.csproj.CoreCompileInputs.cache
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\bin\Debug\net8.0-windows\calcular edad.exe
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\bin\Debug\net8.0-windows\calcular edad.deps.json
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\bin\Debug\net8.0-windows\calcular edad.runtimeconfig.json
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\bin\Debug\net8.0-windows\calcular edad.dll
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\bin\Debug\net8.0-windows\calcular edad.pdb
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\calcular edad.dll
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\refint\calcular edad.dll
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\calcular edad.pdb
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\calcular edad.genruntimeconfig.cache
+C:\Users\Bryan\source\repos\calcular edad\calcular edad\obj\Debug\net8.0-windows\ref\calcular edad.dll

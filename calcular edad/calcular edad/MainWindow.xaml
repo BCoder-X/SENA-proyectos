@@ -1,0 +1,35 @@
+﻿<Window x:Class="calcular_edad.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Calculadora de Edad" Height="250" Width="400"
+        ResizeMode="NoResize">
+    <Grid Margin="15">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <!-- Etiqueta y selector para Fecha de Nacimiento -->
+        <Label Content="Fecha de nacimiento:" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center"/>
+        <DatePicker x:Name="datePickerNacimiento" Grid.Row="0" Grid.Column="1" SelectedDateChanged="ActualizarEstadoBoton"/>
+
+        <!-- Etiqueta y selector para Fecha Actual -->
+        <Label Content="Fecha actual:" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center"/>
+        <DatePicker x:Name="datePickerActual" Grid.Row="1" Grid.Column="1" SelectedDateChanged="ActualizarEstadoBoton"/>
+
+        <!-- Botón para calcular edad -->
+        <Button x:Name="btnCalcular" Content="Calcular Edad" Grid.Row="2" Grid.ColumnSpan="2" 
+                Margin="0,10,0,0" Height="30" Click="CalcularEdad_Click" IsEnabled="False"/>
+
+        <!-- Cuadro de texto para mostrar el resultado -->
+        <TextBox x:Name="textBoxResultado" Grid.Row="3" Grid.ColumnSpan="2" FontSize="16" 
+                 FontWeight="Bold" Margin="0,10,0,0" IsReadOnly="True" TextAlignment="Center"/>
+    </Grid>
+</Window>
